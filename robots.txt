@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lafise-ufmg.github.io/lafise/sitemap.xml
+Sitemap: https://lafise-ufmg.github.io/lafise//sitemap.xml
