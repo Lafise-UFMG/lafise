@@ -17,8 +17,8 @@ keywords: laboratório, fisiologia, exercício, UFMG, EEFFTO # add your own keyw
 lang: pt-BR # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://lafise-ufmg.github.io/lafise # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://lafise-ufmg.github.io # the base hostname & protocol for your site
+baseurl: "/lafise/" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, help
 back_to_top: true # set to false to disable the back to top button
